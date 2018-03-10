@@ -1,0 +1,8 @@
+#ifndef THREADS_LOTTERY_THREAD_CALLBACKS_H
+#define THREADS_LOTTERY_THREAD_CALLBACKS_H
+#include "ThreadWork.h"
+
+void runThread();
+
+#endif //THREADS_LOTTERY_THREAD_CALLBACKS_H
+
